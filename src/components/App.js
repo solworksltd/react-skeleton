@@ -1,10 +1,14 @@
 import React from 'react';
 
+import { Container, Header } from 'semantic-ui-react';
+
 class App extends React.Component {
   // eslint-disable-next-line class-methods-use-this
   render() {
     return (
-      <h1>Hello React Skeleton</h1>
+      <Container>
+        <Header as='h1'>Hello React Skeleton</Header>
+      </Container>
     );
   }
 }
