@@ -10,5 +10,4 @@ environment.
 - `git clone git@github.com:solworksltd/react-skeleton.git` - Clone the project
 - `npm install` - Install dependencies
 - `npm start` - Run the development server
-
-Server port is set to **7777**
+- Browse: [http://localhost:7777](http://localhost:7777)
